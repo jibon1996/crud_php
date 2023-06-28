@@ -1,0 +1,38 @@
+.btn a {
+   text-decoration: none;
+   font-weight: bold;
+   letter-spacing: 1px;
+  
+}
+
+.table ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+.table ul li a{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px; */
+    
+   
+}
+.update_btn{
+    background-color: blueviolet;
+    color:#fff;
+    
+}
+.update_btn:hover{
+    color:rgb(174, 122, 222);
+}
+.delete_btn{
+    background-color: red !important;
+    color:#fff;
+}
+.delete_btn:hover{
+    color:rgb(227, 104, 104)
+}
